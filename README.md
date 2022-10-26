@@ -179,7 +179,32 @@ It has the following
   This simplifies the routing for you so that you concentrate on the other tasks above,
   Take Your time, read the task over and over till your understand it before attempting, you are free to create meets to discus this.
 
-  good luck
-  
+  ## Author
+
+👤 **Joseph Ogbole**
+
+- GitHub: [@ONJoseph](https://github.com/ONJoseph)
+- Twitter: [@ONJoseph1](https://twitter.com/ONJoseph1)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/o-n-joseph-ba8425147/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/ONJoseph/UserAuthOOPMYSQL/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Zuri for the Readme Template
+- Zuri X i4g Internship 2022 
+
+## 📝 License
+
+This project is [MIT](./LICENCE) licensed.
+
 
 
